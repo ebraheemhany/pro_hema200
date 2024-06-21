@@ -1,0 +1,511 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="hello.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
+
+</head>
+<body>
+  
+    <!-- start header -->
+    <header>
+           <div class="container top-nav">
+      <a href="index.html"> <h2 class="logo">hema</h2></a>
+           <form class="search">
+            <input type="search" placeholder="search hera">
+            <button type="submit">Search</button>
+           </form>
+        <div class="cart_header">
+            <div onclick="open_cart()" class="icon_cart">
+                <i class="fa-solid fa-cart-shopping"></i>
+                <span class="count_items">0</span>
+            </div>
+            <div class="total_price">
+                <p>My cart</p>
+                <p class="price_cart_head">$0</p>
+            </div>
+        </div>
+        
+
+           </div>
+    <nav>
+        <div class="links container">
+        <!-- icon to menu -->
+            <i onclick="open_menu()" class="fa-solid fa-bars btn-open-menu"></i>
+            
+            <ul id="menu">
+                <span onclick="close_menu()" class="bg-overlay"></span>
+    <i onclick="close_menu()" class="fa-regular fa-circle-xmark btn-close-menu"></i>            
+                <li class="active"><a href="index.html">Home</a></li>
+                <li><a href="item3.html">All product</a></li>
+                <li><a href="">About Us</a></li>
+                <li><a href="">Contact</a></li>
+             </ul>
+          <div class="login_signup">
+             <a href="logn.html">Login <i class="fa-solid fa-arrow-right-to-bracket"></i></a>
+             <a href="sign_Up.html">Sign Up <i class="fa-solid fa-user-plus"></i></a>
+          </div>    
+
+        </div>
+       
+    </nav>
+
+    </header>
+
+<!-- end header -->
+
+<!-- start cart -->
+<div class="cart ">
+ <div class="top_cart">
+<h3>My cart <span>(0)</span>item in cart</h3>
+<span onclick="close_cart()" class="close-cart"><i class="fa-regular fa-circle-xmark"></i></span>
+ </div>
+
+<div class="item_in_cart">
+
+
+
+
+</div>
+
+<div class="buttom_cart">
+<div class="total">
+<p>cart subtotal</p>
+<p class="price_cart_total">0$</p>
+</div>
+<div class="buttom_cart">
+<a href="logn.html" class="btn_cart">proceed to checkout</a>
+<a href="item2.html"><button class="btn_cart trans_bg">shop more </button></a>
+
+</div>
+
+</div>
+
+
+
+</div>
+<!-- end cart -->
+
+<!-- start sitbar -->
+
+<div class="slider">
+<div class="container">
+<div class="sid_bar">
+ <h2><i class="fa-solid fa-bars"></i> shop by department</h2>
+<a href="#">electric product</a>
+<a href="#">iphone</a>
+<a href="#">ibad</a>
+<a href="#">Apple watch</a>
+<a href="#">Samsung mobile</a>
+<a href="#">Shawmi mobile</a>
+<a href="#">realme mobile</a>
+</div>
+
+  <!-- Swiper -->
+  <div class="slide-swp mySwiper">
+    <div class="swiper-wrapper">
+      <div class="swiper-slide">
+        <a href="#">
+            <img src="image/3.webp" alt="">
+        </a>
+      </div>
+
+   
+
+      <div class="swiper-slide">
+        <a href="#">
+            <img src="image/4.jpeg">
+        </a>
+      </div>
+      <div class="swiper-slide">
+        <a href="#">
+            <img src="image/1.webp">
+        </a>
+      </div>
+     
+   
+     
+    
+     
+     
+     
+      
+    </div>
+    <div class="swiper-pagination"></div>
+  </div>
+
+</div>
+
+</div>
+
+
+
+<!-- end sitbar -->
+
+<!-- start featutre -->
+
+<div class="features">
+<div class="container">
+
+ <div class="features-item">
+    <i class="fa-solid fa-gift"></i>
+     <div class="text">
+    <h4>Free Shopping</h4>
+     <p>Free Shopping All Order</p>
+     </div>
+
+
+ </div>
+ <div class="features-item">
+    <i class="fa-brands fa-cc-amazon-pay"></i>
+     <div class="text">
+    <h4>Free Shopping</h4>
+     <p>Free Shopping All Order</p>
+     </div>
+
+
+ </div>
+ <div class="features-item">
+    <i class="fa-brands fa-google-wallet"></i>
+     <div class="text">
+    <h4>Free Shopping</h4>
+     <p>Free Shopping All Order</p>
+     </div>
+
+
+ </div>
+ <div class="features-item">
+    <i class="fa-brands fa-nfc-symbol"></i>
+     <div class="text">
+    <h4>Free Shopping</h4>
+     <p>Free Shopping All Order</p>
+     </div>
+
+
+ </div>
+ <div class="features-item">
+    <i class="fa-brands fa-fedex"></i>
+     <div class="text">
+    <h4>Free Shopping</h4>
+     <p>Free Shopping All Order</p>
+     </div>
+
+
+ </div>
+
+</div>
+
+</div>
+<!-- end featuter -->
+
+<!-- start banner -->
+
+<div class="banner">
+<div class="container">
+<div class="banner-img">
+<div class="glass-hover"></div>
+<a href="#"></a>
+    <img src="image/5.png">
+
+</div>
+<div class="banner-img">
+<div class="glass-hover"></div>
+<a href="#"></a>
+    <img src="image/6.jpg">
+
+</div>
+<div class="banner-img">
+<div class="glass-hover"></div>
+<a href="#"></a>
+    <img src="image/8.jpg">
+
+</div>
+
+</div>
+
+
+</div>
+<!-- end banner -->
+
+<!-- start slid -->
+<div class="slid slid-sale">
+<div class="container">
+
+<div class= "sale-sec mySwiper">
+    <div class="top-slide">
+        <h2>on sale <span>product</span></h2>
+    </div>
+
+<div id="swiper_item_sale" class="products swiper-wrapper">
+
+
+</div>
+
+
+    
+<div class="swiper-button-next btn_swip"></div>
+<div class="swiper-button-prev btn_swip"></div>
+
+
+</div>
+
+</div>
+
+</div>
+
+
+<!-- start banner two -->
+<div class="banner banner_big">
+    <div class="container">
+    <div class="banner-img">
+    <div class="glass-hover"></div>
+    <a href="#"></a>
+        <img src="https://neilpatel.com/wp-content/uploads/2021/01/image3-21.png">
+   
+       
+    
+    </div>
+    <div class="banner-img">
+    <div class="glass-hover"></div>
+    <a href="#"></a>
+        <img src="https://startupplugs.com/wp-content/uploads/2022/08/unbounce-landing-pages.png">
+   
+      
+    
+    </div>
+  
+    
+    </div>
+    
+    
+    </div>
+<!-- end banner two -->
+
+
+<!-- start slid two -->
+
+    <div class="slid slid_product">
+        <div class="container">
+        
+            <div class="top-slide">
+                <h2>Computer & Desktop <span>product</span></h2>
+            </div>
+
+     <div class="slid_width_img">
+        <div class="categ_img">
+
+            <a href=""><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkMxi6EBFsFO4FEWghy9QF4_q3u1eXNa4CkYVX7q_TwMU6OA9-bUMRcrS6-3axzQyS8hA&usqp=CAU"</img></a>
+
+
+        </div>
+      
+        <div class="product_swip mySwiper">
+            <div class="products other_product_swiper swiper-wrapper" id="other_product_swiper">
+        
+        
+            </div>
+            <div class="swiper-button-next btn_swip"></div>
+            <div class="swiper-button-prev btn_swip"></div>
+            
+            </div>
+
+
+     </div>
+    
+        </div>
+        
+        </div>
+
+<!-- start slid three -->
+
+<div class="slid slid_product">
+    <div class="container">
+    
+        <div class="top-slide">
+            <h2>Computer & Desktop <span>product</span></h2>
+        </div>
+
+ <div class="slid_width_img">
+  
+  
+    <div class="product_swip mySwiper">
+        <div class="products other_product_swiper swiper-wrapper" id="other_product_swiper2">
+    
+    
+        </div>
+        <div class="swiper-button-next btn_swip"></div>
+        <div class="swiper-button-prev btn_swip"></div>
+        
+        </div>
+
+        <div class="categ_img">
+
+            <a href=""><img src="image/25.webp"</img></a>
+    
+    
+        </div>
+
+ </div>
+
+
+
+
+    </div>
+    
+    </div>
+
+
+<!-- banner fuor -->
+<div class="banner">
+    <div class="container">
+    <div class="banner-img">
+    <div class="glass-hover"></div>
+    <a href="#"></a>
+        <img src="https://reallygooddesigns.com/wp-content/uploads/2022/11/Black-and-Orange-Website-Design-Examples.png">
+    </div>
+    <div class="banner-img">
+    <div class="glass-hover"></div>
+    <a href="#"></a>
+        <img src="https://previews.123rf.com/images/droidworks/droidworks1501/droidworks150101024/35698565-website-template-eps-10-vector-illustration-orange-color.jpg">
+    
+    </div>
+    <div class="banner-img">
+    <div class="glass-hover"></div>
+    <a href="#"></a>
+        <img src="https://s3.envato.com/files/313171556/Perview%20Screenshot/Display%20image%20Orange.jpg">
+    
+    </div>
+    
+    </div>
+    
+    
+    </div>
+
+
+<!-- news lettar -->
+
+<div class="newsletter">
+<div class="container">
+<div class="text">
+<img src="https://cdn-icons-png.freepik.com/512/3176/3176392.png">
+       <div class="content">
+        <h4>sign up to newsletter</h4>
+        <p>Get email updates about our latest shoping and receive</p>
+          <h6>$30coupon for frist shoping</h6>
+       </div>
+
+</div>
+
+<form action="" class="newsletters_from">
+    <input type="email" placeholder="inter your email here...">
+    <button type="submit">Subscribe</button>
+</form>
+
+
+</div>
+
+
+</div>
+
+<!-- scroll to top -->
+<div class="back_to_top">
+    <i class="fa-solid fa-arrow-up"></i>
+</div>
+
+
+<!-- footer -->
+<footer>
+<div class="container">
+<div class="big_row">
+<h2>Serveice</h2>
+<div class="hotline">
+    <i class="fa-solid fa-headset"></i>
+    <div class="text">
+    <h5>Hotline Free 24/24</h5>
+     <h6>(+100) 5555 7777</h6>
+    </div>
+ 
+</div>
+
+<p>Lorem ipsum dolor, sit amet consectetur adipisicing.</p>
+ 
+</div>
+
+<div class="row">
+<h4>FAQs & Help</h4>
+<div class="links">
+<a href="#">F.A.Q.f</a>
+<a href="#">Ordering</a>
+<a href="#">Contacts</a>
+<a href="#">Events</a>
+<a href="#">HelpCenter</a>
+
+</div>
+</div>
+<div class="row">
+<h4>shoping & Dlivery</h4>
+<div class="links">
+<a href="#">Dlivery Information</a>
+<a href="#">Discount</a>
+<a href="#">Payment & Shoping</a>
+<a href="#">Estimated Delivery TIme</a>
+<a href="#">Shoping</a>
+
+</div>
+</div>
+<div class="row">
+<h4>Information</h4>
+<div class="links">
+<a href="#">Populer</a>
+<a href="#">Our Serveice</a>
+<a href="#">Your Account</a>
+<a href="#">privaacy policy</a>
+
+
+</div>
+</div>
+
+
+
+
+</div>
+
+
+<div class="bottom_footer">
+   <div class="container">
+    <p>Copyright &copy;<span>hema</span>All rights received</p>
+    <div class="payment_img">
+        <i class="fa-brands fa-cc-amazon-pay"></i>
+        <i class="fa-brands fa-cc-discover"></i>
+        <i class="fa-brands fa-cc-visa"></i>
+        <i class="fa-brands fa-cc-jcb"></i>
+    </div>
+
+   </div> 
+
+</div>
+
+</footer>
+
+
+
+
+
+
+
+
+
+
+
+
+<script src="hello.js"></script> 
+<script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+<script src="swiper.js"></script>
+<script src="items_home.js"></script>
+
+</body>
+</html>

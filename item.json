@@ -1,0 +1,170 @@
+
+
+[
+    {
+      "id": 0,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8qrUUOhfIadGOIED8QkZImX75wK9w5Q6MA&s",
+      "img_hover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlndpwDalSNF8TzBG6T7kGv73l0IOReNJpKw&s",
+      "name": "Original Mobile Android Dual SIM Smart Phone G3",
+      "price":2000 ,
+      "old_price": 2250
+    },
+    {
+      "id": 1,
+      "img": "https://images.unsplash.com/photo-1617043983671-adaadcaa2460?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "img_hove": "https://lt2.pigugroup.eu/colours/708/090/11/70809011/apple-watch-series-8-gps-cellular-45mm-9e596_reference.jpg",
+      "name": "ginal Mobile Android Dual SIM Smart Phone G3",
+      "price":1800 ,
+      "old_price": 1200
+    },
+    {
+      "id": 2,
+      "img": "https://www.91-cdn.com/hub/wp-content/uploads/2022/07/Top-laptop-brands-in-India.jpg",
+      "img_hove": "https://www.91-cdn.com/hub/wp-content/uploads/2021/06/Mi-Notebook-Pro-X-15-1024x638-1024x638.jpg",
+      "name": "ginal Mobile Android Dual SIM Smart Phone G3",
+      "price":1800 ,
+      "old_price": 2000
+    },
+    {
+      "id": 3,
+      "img": "https://reviewed-com-res.cloudinary.com/image/fetch/s--BBWYtQwJ--/b_white,c_limit,cs_srgb,f_auto,fl_progressive.strip_profile,g_center,q_auto,w_972/https://reviewed-production.s3.amazonaws.com/1588615493713/HeroBestLaptopsUnder1k.jpg",
+      "img_hover": "https://www.livemint.com/lm-img/img/2023/09/01/1600x900/mini_laptops_1693550961385_1693550961736.jpg",
+      "name": "Original Mobile Android Dual SIM Smart Phone G3",
+      "price": 900,
+      "old_price": 1100
+    },
+    {
+      "id": 4,
+      "img": "https://hips.hearstapps.com/hmg-prod/images/gh-050321-best-smart-home-devices-1620053918.png?crop=0.652xw:1.00xh;0.176xw,0&resize=1200:*",
+      "img_hover": "https://m.media-amazon.com/images/I/71GYHL14uVL._AC_SR263,263_.jpg",
+      "name": "Original Mobile Android Dual SIM Smart Phone G3",
+      "price": 3500,
+      "old_price": 4210
+
+    },
+    {
+      "id": 5,
+      "img": "https://lh3.googleusercontent.com/Brxe4bYH7_AK24-W6BhRLA9zZ8Ncw0F0jaDr75p8fLgzfrEiP7PTpQKrNHThP5youGbIBSyZz33haFVtyD_YJ2fgYA_bzBYWXwqL6cvUV5FajFWVIlk",
+      "img_hover": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2019/10/07/12/google-nest-thermostat-indybest.jpg",
+      "name": "Original Mobile Android Dual SIM Smart Phone G3",
+      "price": 1150,
+      "old_price": 2350
+    },
+    {
+      "id": 6,
+      "img": "https://www.security.org/app/uploads/2021/02/Smart-Plug-1.jpg",
+      "img_hover": "https://www.the-ambient.com/wp-content/uploads/sites/2/2024/01/dsc-1298-1558737419-7vvy-column-width-inline-1570513713-BoNA-column-width-inline.jpg",
+      "name": "Original Mobile Android Dual SIM Smart Phone G3",
+      "price": 2250,
+      "old_price": 2800
+    },
+    {
+      "id": 7,
+      "img": "https://i.pcmag.com/imagery/reviews/02oJ1xryiDfT9l9f6Jcwezn-10..v1679578601.jpg",
+      "img_hover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs6YIizIbA1SUzJR2pdGpITDmdyZ7vSSpjgm_xo6Nw_aoZ5eKKL7xk_w61r8l09MK59uo&usqp=CAU",
+      "name": "Original Mobile Android Dual SIM Smart Phone G3",
+      "price": 1500,
+      "old_price": 2000
+    },
+    {
+      "id": 8,
+      "img": "https://cdn.mobilesyrup.com/wp-content/uploads/2019/12/lenovo-smart-display-7-header-scaled.jpg",
+      "img_hover": "https://www.hightechdad.com/wp-content/uploads/2019/11/HighTechDad-Lenovo-Smart-Display-7-review17.jpg",
+      "name": "Original Mobile Android Dual SIM Smart Phone G3",
+      "price": 1800
+    },
+    {
+      "id": 9,
+      "img": "https://powerhouseexpress.com.pk/cdn/shop/articles/james-yarema-sz6W3auVnHQ-unsplash_1.jpg?v=1706538511&width=1100",
+      "img_hover": "https://www.digitaltrends.com/wp-content/uploads/2020/11/homepod-mini-side-top-table-angle.jpg?fit=500%2C334&p=1",
+      "name": "Original Mobile Android Dual SIM Smart Phone G3",
+      "price": 3000
+    },
+    {
+      "id": 10,
+      "img": "https://assets.bonappetit.com/photos/61e755ce6b6fe523b0365397/16:9/w_1920,h_1080,c_limit/20220112%20Best%20Coffee%20Maker%20LEDE.jpg",
+      "img_hover": "https://www.linenchest.com/media/catalog/product/cache/f7f3e622760ea5f71cba0aba79c9348b/l/e/legal_283932_bes500rvc.jpg",
+      "name": "Original Mobile Android Dual SIM Smart Phone G3",
+      "price": 2500
+    },
+    {
+      "id": 11,
+      "img": "https://kroobia.com/storage/media/nDh8CczUfmfDcdE1SKTgFrC28q6NrNVHVxCLPbkz.jpg",
+      "img_hover": "https://image.made-in-china.com/202f0j00MiDgKWGFZZca/T500-PRO-New-Arrivals-Smartwatch-Hiwatch-Series-6-Smart-Watch.webp",
+      "name": "Original Mobile Android Dual SIM Smart Phone G3",
+      "price": 1200
+    },
+    {
+      "id": 12,
+      "img": "https://m.media-amazon.com/images/I/616bXqAal5L._AC_UF894,1000_QL80_.jpg",
+      "img_hover": "https://cdn.salla.sa/lrnmB/NDKfP7qrw0PR4FWWIlNk0B1Wo7Kri0SiDIPxf0r0.jpg",
+      "name": "Original Mobile Android Dual SIM Smart Phone G3",
+      "price": 900
+    },
+    {
+      "id": 13,
+      "img": "https://scx2.b-cdn.net/gfx/news/2017/whenstranger.jpg",
+      "img_hover": "https://img.youtube.com/vi/5yzhOy1THPg/maxresdefault.jpg",
+      "name": "Original Mobile Android Dual SIM Smart Phone G3",
+      "price": 1290
+    },
+    {
+      "id": 14,
+      "img": "https://www.ikea.com/us/en/images/products/symfonisk-sonos-wifi-bookshelf-speaker-black-smart-gen-2__1025506_pe834047_s5.jpg?f=s",
+      "img_hover": "https://www.ikea.com/ca/en/images/products/symfonisk-wifi-bookshelf-speaker-black-smart-gen-2__1025509_pe834050_s5.jpg?f=s",
+      "name": "Original Mobile Android Dual SIM Smart Phone G3",
+      "price": 1800
+    },
+    {
+      "id": 15,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX92-sfmxN5IiRfSr-OYvtG2-ISQKuiyie0w&s",
+      "img_hover": "https://tienda.travel.cl/ccstore/v1/images/?source=/file/v7687860609849926317/products/SKU51270.1.jpg&height=300&width=300",
+      "name": "Original Mobile Android Dual SIM Smart Phone G3",
+      "price": 600
+    },
+    { 
+    "id":16,
+    "img":"https://eg.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/69/765094/1.jpg?8047",
+    "img_hover": "https://5.imimg.com/data5/SELLER/Default/2022/3/XD/XO/SF/148618475/vivo-y19-mobile-phones.jpg",
+    "name": "Original Mobile Android Dual SIM Smart Phone G3",
+    "price": 2100,
+    "old_price": 2350
+    },
+    { 
+      "id":17,
+      "img":"image/p1.webp",
+      "img_hover": "image/p2.jpg",
+      "name": "Original Mobile Android Dual SIM Smart Phone G3",
+      "price": 2100,
+      "old_price": 2350
+      },
+      { 
+        "id":18,
+        "img":"image/p4.png",
+        "img_hover": "image/p2.jpg",
+        "name": "Original Mobile Android Dual SIM Smart Phone G3",
+        "price": 2100,
+        "old_price": 2350
+        },
+        { 
+          "id":19,
+          "img":"image/15.png",
+          "img_hover": "image/12.jpeg",
+          "name": "Original Mobile Android Dual SIM Smart Phone G3",
+          "price": 2100,
+          "old_price": 2350
+          }
+
+
+
+  ]
+
+
+
+
+
+
+
+
+
+
